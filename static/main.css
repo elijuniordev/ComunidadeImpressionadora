@@ -1,0 +1,55 @@
+.card{
+  width: 400px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.stats{
+    background: #f2f5f8 !important;
+    color: #000 !important;
+}
+
+.articles{
+  font-size:10px;
+  color: #a1aab9;
+}
+
+.number1{
+  font-weight:500;
+}
+
+.followers{
+    font-size:10px;
+  color: #a1aab9;
+}
+
+.number2{
+  font-weight:500;
+}
+
+.rating{
+    font-size:10px;
+  color: #a1aab9;
+}
+
+.number3{
+  font-weight:500;
+}
+
+.meupost{
+  background: #f2f5f8 !important;
+}
+
+/* If the screen size is 1200px wide or more, set the font-size to 80px */
+@media (min-width: 1200px) {
+  .fonte-responsiva {
+    font-size: 18px;
+  }
+}
+/* If the screen size is smaller than 1200px, set the font-size to 80px */
+@media (max-width: 1199.98px) {
+  .fonte-responsiva {
+    font-size: 16px;
+  }
+}
