@@ -1,10 +1,10 @@
 # Comunidade Tech
 
-Este site foi desenvolvido com interesses puramente acadêmicos, tem a finalidade de realizar alguns cálculos financeiros.
+Este site foi desenvolvido com interesses puramente acadêmicos, tem a finalidade de simular uma rede social simples.
 
 Desenvolvido através do Python com o Framework Flask, hospedado no servidor Heroku.
 
-Através de formulário preenchido pelo usuário trás o resultado do respectivo cálculo, sendo cálculo de salário, férias ou hora extra.
+Através do site com o usuário logado, é possivel criar, excluir e atualizar posts, e também é possivel listar todos posts dos usuários do portal.
 
 ## Badges
 
